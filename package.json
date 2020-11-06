@@ -1,0 +1,17 @@
+{
+  "name": "vue-check",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^0.0.7",
+    "dayjs": "^1.9.5",
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "vite": "^1.0.0-rc.8"
+  }
+}
